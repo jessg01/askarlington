@@ -8,3 +8,4 @@ langchain-core
 chromadb
 unstructured[all-docs]
 langchain-unstructured
+langchain-pinecone
