@@ -7,4 +7,4 @@ textblob
 langchain-core
 chromadb
 unstructured[all-docs]
--U langchain-unstructured
+langchain-unstructured
