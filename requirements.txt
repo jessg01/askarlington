@@ -1,0 +1,10 @@
+streamlit 
+google-generativeai 
+langchain 
+langchain-google-genai
+langchain-community
+textblob
+langchain-core
+chromadb
+unstructured[all-docs]
+-U langchain-unstructured
